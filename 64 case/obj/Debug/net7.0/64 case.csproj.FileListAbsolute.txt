@@ -1,0 +1,15 @@
+D:\GB\C#_lesson_9\64 case\bin\Debug\net7.0\64 case.exe
+D:\GB\C#_lesson_9\64 case\bin\Debug\net7.0\64 case.deps.json
+D:\GB\C#_lesson_9\64 case\bin\Debug\net7.0\64 case.runtimeconfig.json
+D:\GB\C#_lesson_9\64 case\bin\Debug\net7.0\64 case.dll
+D:\GB\C#_lesson_9\64 case\bin\Debug\net7.0\64 case.pdb
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\64 case.csproj.AssemblyReference.cache
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\64 case.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\64 case.AssemblyInfoInputs.cache
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\64 case.AssemblyInfo.cs
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\64 case.csproj.CoreCompileInputs.cache
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\64 case.dll
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\refint\64 case.dll
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\64 case.pdb
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\64 case.genruntimeconfig.cache
+D:\GB\C#_lesson_9\64 case\obj\Debug\net7.0\ref\64 case.dll
